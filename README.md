@@ -5,8 +5,8 @@ Brief guide for Hackintoshing MSI Modern 14 b10mw (Intel® Core™ i3 10th Gener
 ## WARNING
 Testing out something experimental may cause your device lagging/ battery draining problems/ excessive heating/ dead devices or other hardware issues. Test at your own risk.
 
-Use Opencore Configurator to add ROM, MLB and Serial. 
-See [mackie100Projects](https://mackie100projects.altervista.org/download-opencore-configurator) and [Dortania guides](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) for help.
+Use Opencore Configurator (OCC) to add ROM, MLB and Serial to config.plist.
+See [mackie100Projects](https://mackie100projects.altervista.org/download-opencore-configurator) to download OCC and [Dortania guides](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) for help.
 
 - *A Backlit issue have been addressed and using an external monitor is advised.*
 ## Support/ Feedback
