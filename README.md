@@ -50,3 +50,14 @@ Working on fixes for all issues. But don't keep high hopes.
 For additional support, check out [tonymacx86](https://www.tonymacx86.com/)
 ## Installation
 According to your need, use the whole EFI file with all it's content after extracting compressed zip files. ( for upgrading from a lower MacOS version to MacOS Sonoma or installing a fresh MacOS Sonoma copy ). Do some research before testing.
+
+## Credits
+[Apple](https://www.apple.com/) for MacOS.
+
+[Dortania](https://github.com/dortania) for guides and help.
+
+[OpenIntelWireless](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for Bletooth kexts.
+
+[OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm?tab=readme-ov-file) for Wifi kexts.
+
+[Acidenthera](https://github.com/acidanthera) for Lilu, VirtualSMC, OpencorePKG, AppleALC, and WhateverGreen kexts. 
