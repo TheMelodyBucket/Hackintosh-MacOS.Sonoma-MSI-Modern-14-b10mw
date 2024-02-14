@@ -29,7 +29,7 @@ For support and feedback, [send an email](sithumkottearachchi@outlook.com)
 - Bluetooth (Might misbehave)
 - Backlit keyboard with keyboard brightness adjustment.
 - All USB 2 ports (right hand side)
-- 3.5mm headphone/mic como jack.
+- 3.5mm headphone/mic combo jack.
 - USB 3.2 Thunderbolt port.
 - Card reader.
 - HDMI out.
