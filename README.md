@@ -21,13 +21,12 @@ For support and feedback, [send an email](sithumkottearachchi@outlook.com)
 ## Features (Working)
 
 - Sound
-- keyboard
+- keyboard with keyboard brightness adjustment.
 - Webcam and Mic (no spatial audio support or animated reactions on calls)
 - Display (Found issues with backlit, strict attention advised until a fix is being released)
 - Brightness/ Sound shortcut keys in function key row.
 - Wifi (99% Working, try a restart if doesn't work)
 - Bluetooth (Might misbehave)
-- Backlit keyboard with keyboard brightness adjustment.
 - All USB 2 ports (right hand side)
 - 3.5mm headphone/mic combo jack.
 - USB 3.2 Thunderbolt port.
