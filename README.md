@@ -1,4 +1,4 @@
-Brief guide for Hackintoshing MSI Modern 14b10mw (Intel® Core™ i3 10th Generation/ comet lake) Model. May work with i5/ i7 models but try at your own risk.
+Brief guide for Hackintoshing MSI Modern 14 b10mw (Intel® Core™ i3 10th Generation/ comet lake) Model. May work with i5/ i7 models but try at your own risk.
 
 
 
