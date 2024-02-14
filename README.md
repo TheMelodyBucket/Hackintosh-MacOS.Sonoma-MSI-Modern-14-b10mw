@@ -56,8 +56,6 @@ According to your need, use the whole EFI file with all it's content after extra
 
 [Dortania](https://github.com/dortania) for guides and help.
 
-[OpenIntelWireless](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for Bluetooth kexts.
-
-[OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm?tab=readme-ov-file) for Wifi kexts.
+[OpenIntelWireless](https://openintelwireless.github.io/) for WiFi and Bluetooth kexts.
 
 [Acidenthera](https://github.com/acidanthera) for Lilu, VirtualSMC, OpencorePKG, AppleALC, and WhateverGreen kexts. 
