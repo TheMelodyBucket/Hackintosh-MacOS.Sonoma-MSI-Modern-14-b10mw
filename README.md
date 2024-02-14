@@ -43,4 +43,4 @@ Working on fixes for all issues. But don't keep high hopes.
 
 For additional support, check out [tonymacx86](https://www.tonymacx86.com/)
 ## Installation
-According to your need, use the whole EFI file with all it's content ( for upgrading from a lower MacOS version to MacOS Sonoma or installing a fresh MacOS Sonoma copy ). Do some research before testing.
+According to your need, use the whole EFI file with all it's content after extracting compressed zip files. ( for upgrading from a lower MacOS version to MacOS Sonoma or installing a fresh MacOS Sonoma copy ). Do some research before testing.
