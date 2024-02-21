@@ -12,7 +12,7 @@ Testing out something experimental may cause your device lagging/ battery draini
 Use Opencore Configurator (OCC) to add ROM, MLB and Serial to config.plist.
 See [mackie100Projects](https://mackie100projects.altervista.org/download-opencore-configurator) to download OCC and [Dortania guides](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) for help.
 
-- *A Backlit issue have been addressed and using an external monitor is advised.*
+- *~A Backlit issue have been addressed and using an external monitor is advised.~* a fix has been released but still there's a chance that display might not work as expected.
 ## Support/ Feedback
 
 For support and feedback, [send an email](sithumkottearachchi@outlook.com)
@@ -37,7 +37,7 @@ For support and feedback, [send an email](sithumkottearachchi@outlook.com)
 
 ## Features (Not working)/ Issues
 Working on fixes for all issues. But don't keep high hopes.
-- Backlight may be delayed to hit on. Use an external monitor until a fix is released.
+- ~Backlight may be delayed to hit on. Use an external monitor until a fix is released.~ A fix has been released but still buggy.
 - Airdrop.
 - iMessages and Facetime (Working on a fix, do not try to log in as your apple ID could be flagged as a bot)
 - Fans (are working but working on higher demand applications may cause overheating as fans cannot exceed their speed more than around 1500rpm. Working on a fix)
